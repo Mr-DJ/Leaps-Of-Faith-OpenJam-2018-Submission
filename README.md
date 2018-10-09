@@ -51,5 +51,3 @@ SPACEBAR to fire weapon
 _FLAWS_:
 
 * No track of highscore as we had planned to do
-
-* No quit option after player death. User has to manually restart the game.
