@@ -51,3 +51,9 @@ SPACEBAR to fire weapon
 _FLAWS_:
 
 * No track of highscore as we had planned to do
+
+
+_INSTRUCTIONS_:
+- Extract the .rar file to the desired location and run the .exe file.
+- When prompted to choose the settings to run the game, choose 1280 x 800 and leave `windowed` ticked on.
+- Hit `Play!` and you're good to go!
